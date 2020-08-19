@@ -11,15 +11,38 @@
 ---
 
 ## Functions
-
 ---
 1. Add File(s): Add image file(s)
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_01.PNG?raw=true"/>
+
 2. Select/Delete: Delete selected file(s)
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_02.PNG?raw=true"/>
+
 3. Open: Add the path to save merging file
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_03.PNG?raw=true"/>
+
 4. width: Designate image width (Original, 1024px, 800px, 640px)
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_04_width.PNG?raw=true"/>
+
 5. space: Designate space between images (None, narrow, normal, broaden)
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_04_space.PNG?raw=true"/>
+
 6. format: Designate image format (PNG, JPG, BMP)
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_04_format.PNG?raw=true"/>
+
 7. Start: Merge image file(s)
 8. progress: show the progress bar
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_05.PNG?raw=true"/>
+
 9. Close: Close program
+
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_06.PNG?raw=true"/>
+
 ---
