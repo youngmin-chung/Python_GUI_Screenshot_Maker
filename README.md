@@ -11,6 +11,10 @@
 ---
 
 ## Functions
+
+<details>
+  <summary>Click to expand!</summary>
+  
 ---
 1. Add File(s): Add image file(s)
 
@@ -43,6 +47,9 @@
 
 9. Close: Close program
 
-<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_06.PNG?raw=true"/>
+10. The result as below
 
+<img src="https://github.com/youngmin-chung/capture/blob/master/py_screenshot_06.PNG?raw=true"/>
 ---
+
+</details>
